@@ -26,7 +26,7 @@ class MorphoSource:
         self.Accept_Language = 'en-US,en;q=0.5'
         self.Accept_Encoding = 'gzip, deflate, br'
         self.Content_Type = 'application/x-www-form-urlencoded'
-        self.Content_Length: '93'
+        self.Content_Length = '93'
         self.Cookie = None
         self.Connection = 'keep-alive'
         self.Upgrade_Insecure_Requests = '1'
